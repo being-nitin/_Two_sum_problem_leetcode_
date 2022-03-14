@@ -27,7 +27,7 @@ public class Main {
 	 */
 
         int[] arr = {4,9,2,6,3};
-        int[] ans = Twosum(arr,11);
+        int[] ans = Twosum(arr,7);
         System.out.println(Arrays.toString(ans));
     }
     public static int[] Twosum(int[] nums, int target){
