@@ -38,6 +38,7 @@ public class Main {
                 }
             }
         }
+        // if the condition is not found then return {-1,-1}
         return new int[]{-1,-1};
     }
 }
