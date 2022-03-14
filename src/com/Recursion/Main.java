@@ -24,6 +24,11 @@ public class Main {
      Example 3:
      Input: nums = [3,3], target = 6
      Output: [0,1]
+
+     Example 4:
+     Input: nums = [9,7,5,8],target = 14
+     Output: [0,2]
+
 	 */
 
         int[] arr = {4,9,2,6,3};
